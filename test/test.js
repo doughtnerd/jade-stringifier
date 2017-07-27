@@ -10,10 +10,7 @@ const should = chai.should();
 const expect = chai.expect;
 const assert = chai.assert;
 
-
-
-
-describe('#stringy', function(){
+describe('jade-stringifier', function(){
     
     it('should convert a template with context', function(){
         let pathToTemplate = __dirname + '/test1.jade';
