@@ -1,6 +1,6 @@
 {
   "name": "@doughtnerd/jade-stringifier",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Converts a Jade template into an HTML string",
   "main": "index.js",
   "engines": {
