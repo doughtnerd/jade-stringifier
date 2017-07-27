@@ -1,0 +1,38 @@
+{
+  "name": "@doughtnerd/jade-stringifier",
+  "version": "0.0.1",
+  "description": "Converts a Jade template into an HTML string",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.11.1"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Doughtnerd/jade-stringifier.git"
+  },
+  "keywords": [
+    "Jade",
+    "HTML",
+    "stringify",
+    "convert",
+    "compile",
+    "context"
+  ],
+  "author": "Christopher Carlson <doughtnerd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Doughtnerd/jade-stringifier/issues"
+  },
+  "homepage": "https://github.com/Doughtnerd/jade-stringifier#readme",
+  "dependencies": {
+    "jade": "1.11.0"
+  },
+  "devDependencies": {
+    "chai": "4.1.0",
+    "chai-as-promised": "7.1.1",
+    "mocha": "3.4.2"
+  }
+}
