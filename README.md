@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/doughtnerd/jade-stringifier.svg?branch=master)](https://travis-ci.org/doughtnerd/jade-stringifier)
+[![Coverage Status](https://coveralls.io/repos/github/doughtnerd/jade-stringifier/badge.svg?branch=master)](https://coveralls.io/github/doughtnerd/jade-stringifier?branch=master)
+
+
 Jade Stringifier
 =========
 
