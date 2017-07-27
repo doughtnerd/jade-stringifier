@@ -1,10 +1,7 @@
-# jade-stringifier
-Converts Jade templates to HTML strings
-
 Jade Stringifier
 =========
 
-A small library that converts a jade template into an html string using ES6 promises.
+A small library that converts a Jade template into an HTML string using ES6 promises.
 
 ## Installation
 
